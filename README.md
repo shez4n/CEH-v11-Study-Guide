@@ -37,7 +37,7 @@
 1. [Module 01 - Introduction to Ethical Hacking](https://github.com/imrk51/CEH-v11-Study-Guide/blob/master/modules/1-Introduction.md)
 2. [Module 02 - Footprinting and Reconnaissance](https://github.com/imrk51/CEH-v11-Study-Guide/blob/master/modules/2-Footprinting-and-Reconnaissance.md)
 3. [Module 03 - Scanning Networks](https://github.com/imrk51/CEH-v11-Study-Guide/blob/master/modules/3-Scanning-Networks.md)
-4. [Module 04 - Enumeration](https://github.com/imrk51/CEH-v11-Study-Guide/blob/master/modules/2-Scanning-and-Enumeration.md)
+4. [Module 04 - Enumeration](https://github.com/imrk51/CEH-v11-Study-Guide/blob/main/modules/3-Scanning-Networks.md)
 5. [Module 05 - Vulnerability Analysis](https://github.com/imrk51/CEH-v11-Study-Guide/blob/main/modules/5-Vulnerability-Analysis.md)
 6. [Module 06 - System Hacking](https://github.com/imrk51/CEH-v11-Study-Guide/blob/master/modules/6-System-Hacking.md)
 7. [Module 07 - Malware Threats](https://github.com/imrk51/CEH-v11-Study-Guide/blob/master/modules/7-Malware.md)
