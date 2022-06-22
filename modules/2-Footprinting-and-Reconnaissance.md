@@ -190,7 +190,7 @@ Can be:
     Name:   www.hackthissite.org
     Address: 137.74.187.104
     ```
-    - First two lines shows my current DNS server; The IP addresses returned are '**A record**', meaning is the IPvA address of the domain; Bottom line NsLookup queries the specified DNS server and retrieves the requested records that are associated with the domain. 
+    - First two lines shows my current DNS server; The IP addresses returned are '**A record**', meaning is the IPv4 address of the domain; Bottom line NsLookup queries the specified DNS server and retrieves the requested records that are associated with the domain. 
 
     - **The following types of DNS records are especially useful to use on Nslookup:**
 
